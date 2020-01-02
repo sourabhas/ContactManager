@@ -1,5 +1,5 @@
 # Contacts Manager using Android Studio
--Database setup for contacts manager and CRUD operations where done using SQLlite
+-Database setup for managing contacts i.e CRUD operations where done using SQLlite
 -Imp Android functionalities covered:
      *Recyclier View and Adapters 
      *Adding OnClick listeners to RecyclerView
